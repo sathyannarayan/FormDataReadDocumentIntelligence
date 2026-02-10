@@ -1,4 +1,4 @@
-# FormDataReadDocumentIntelligence
+# AI Document data reader: Form Data Read using Azure Document Intelligence
 
 This project uses **Azure AI Document Intelligence** (Form Recognizer) to train a custom model on labeled form images and then test it against new forms. It includes C# console apps for training and testing.
 
