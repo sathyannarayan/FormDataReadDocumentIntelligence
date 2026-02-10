@@ -1,0 +1,27 @@
+# Build / IDE
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# Config with secrets (use appsettings.example.json or .env.example instead)
+appsettings.json
+.env
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Nuget
+packages/
+*.nupkg
+project.lock.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
